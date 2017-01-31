@@ -9,8 +9,14 @@ https://freeboard.io/board/1SeVCD
 
 Prepared to send data to OpenSmog / AcquisitionAPI https://github.com/OpenSmog/AcquisitionAPI
 
-smogreader_xx.py in repository.
-Required lib: http://docs.python-requests.org/en/master/#
+smogreader_v2.py - readings
+smogreader_start.sh - script for crontab
+
+Add to cron following line to run this script during reboot:
+@reboot /home/pi/smogreader/smogreader_start.sh
+
+Required lib: 
+Requests http://docs.python-requests.org/
 
 Contact: manowiecki@gmail.com
 Twitter: @pawel_manu
