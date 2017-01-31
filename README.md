@@ -1,7 +1,7 @@
 # Smog Reader
 Device SDL607 Air Quality Monitor, which measures with laser Particulate Matter (PM2.5 & PM10)
 
-![SDL607 Device picture](https://github.com/pawel-manu/smogreader/SDL607_RPi_smogreader.jpg)
+![SDL607 Device picture](https://github.com/pawel-manu/smogreader/blob/master/SDL607_RPi_smogreader.jpg)
 
 Device connected via USB to Raspberry PI
 Data sent to Dweet.io - you can follow:
