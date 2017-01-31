@@ -2,6 +2,8 @@
 ## Hardware:
 Device SDL607 Air Quality Monitor, which measures with laser Particulate Matter (PM2.5 & PM10)
 
+Device manual: http://inovafitness.com/software/SDL607%20Laser%20PM2.5%20Monitor%20V1.2.pdf
+
 ![SDL607 Device picture](https://github.com/pawel-manu/smogreader/blob/master/SDL607_RPi_smogreader.jpg)
 
 Device connected via USB to Raspberry PI
