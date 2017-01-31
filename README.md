@@ -15,7 +15,9 @@ or see dashboard:
 
 https://freeboard.io/board/1SeVCD
 
-Prepared to send data to OpenSmog / AcquisitionAPI https://github.com/OpenSmog/AcquisitionAPI
+Prepared to send data to OpenSmog / AcquisitionAPI 
+
+https://github.com/OpenSmog/AcquisitionAPI
 
 ## Scripts: 
 
