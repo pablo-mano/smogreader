@@ -27,7 +27,7 @@ smogreader_start.sh - script for crontab
 
 Add to cron following line to run this script during reboot:
 
-@reboot /home/pi/smogreader/smogreader_start.sh
+```@reboot /home/pi/smogreader/smogreader_start.sh```
 
 Required lib: 
 
