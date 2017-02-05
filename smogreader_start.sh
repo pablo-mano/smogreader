@@ -10,4 +10,4 @@ while [  $STATE == "error" ]; do
  done
 
 cd /home/pi/smogreader
-python smogreader_v2.py >> smogreader_v2.log 2>&1
+python smogreader_v3.py >> smogreader_v3.log 2>&1
